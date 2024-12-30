@@ -27,3 +27,5 @@ Si vous souhaitez contribuer à ce projet, assurez-vous de placer vos nouvelles 
 ## Contact
 
 Pour toute question ou suggestion concernant ces données d'illustration, n'hésitez pas à ouvrir une issue dans ce dépôt.
+
+![My illustration](https://raw.githubusercontent.com/lantomalala/my-illustration/7a692cdce1098445c63f9324b387fce760223d21/Rafiki%20-%20Blue/157-Rising_Artboard-1.svg)
